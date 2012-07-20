@@ -1,7 +1,6 @@
 # Overview
 
 The application that is needed is a time tracking application.  It is a derivative of the canonical single page starter application [TodoMVC](http://addyosmani.github.com/todomvc/).  I hope that because of the simularity, you will be able take the concepts from the tutorials on TODO apps and expand that to work with this application.
-rry about user authentication.
 
 ## The web service
 
